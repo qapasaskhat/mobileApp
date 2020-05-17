@@ -1,0 +1,615 @@
+{
+    "account": {
+        "email": "youremail@gmail.com",
+        "password": 12345
+    },
+    "popular_products": [
+        {
+            "title":"Наливной пол Нивелер Наши",
+            "is_liked": true,
+            "price": 2500,
+            "previous_price": 3100,
+            "img": "https://sun9-66.userapi.com/c858028/v858028719/15b379/fYYdkllZOEc.jpg",
+            "description":{
+                "size":"420x420",
+                "count":10,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1478
+        },
+        {
+            "title":"Акриловая эмаль Радуга-220 0,9 кг",
+            "is_liked": true,
+            "price": 2160,
+            "previous_price": 2800,
+            "img": "https://sun9-16.userapi.com/c858028/v858028719/15b382/5RqoElG9kwU.jpg",
+            "description":{
+                "size":"0,9 кг",
+                "count":8,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1477
+        },
+        {
+            "title":"Акриловая эмаль Радуга-220 0,9 кг",
+            "is_liked": true,
+            "price": 2160,
+            "previous_price": 3800,
+            "img": "https://sun9-16.userapi.com/c858028/v858028719/15b382/5RqoElG9kwU.jpg",
+            "description":{
+                "size":"0,9 кг",
+                "count":8,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1479
+        }
+    ],
+    "popular_service":[
+        {
+            "title":"Сварочные работы",
+            "is_liked": false,
+            "price": 50000,
+            "img": "https://sun9-46.userapi.com/c858028/v858028719/15b38a/F0e-zeVrQEI.jpg",
+            "description":{
+                "size":"420x420",
+                "count":10,
+                "type": "type"
+            },
+            "id":1475
+        },
+        {
+            "title":"Укладывание кафеля",
+            "is_liked": true,
+            "price": 75000,
+            "img": "https://sun9-8.userapi.com/c858028/v858028719/15b391/ecTKKD8Zrcs.jpg",
+            "description":{
+                "size":"420x420",
+                "count":10,
+                "type": "type"
+            },
+            "id":1471
+        },
+        {
+            "title":"Укладывание кафеля",
+            "is_liked": false,
+            "price": 75000,
+            "img": "https://sun9-8.userapi.com/c858028/v858028719/15b391/ecTKKD8Zrcs.jpg",
+            "description":{
+                "size":"420x420",
+                "count":10,
+                "type": "type"
+            },
+            "id":1410
+        }
+    ],
+    "maybe_interesting":[
+        {
+            "title":"Акриловая эмаль Радуга-220 0,9 кг",
+            "is_liked": false,
+            "price": 2160,
+            "previous_price": 2800,
+            "img": "https://sun9-16.userapi.com/c858028/v858028719/15b382/5RqoElG9kwU.jpg",
+            "description":{
+                "size":"0,9 кг",
+                "count":8,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1460
+        },
+        {
+            "title":"Акриловая эмаль Радуга-220 0,9 кг",
+            "is_liked": true,
+            "price": 2160,
+            "previous_price": 3800,
+            "img": "https://sun9-16.userapi.com/c858028/v858028719/15b382/5RqoElG9kwU.jpg",
+            "description":{
+                "size":"0,9 кг",
+                "count":8,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1461
+        },
+        {
+            "title":"Акриловая эмаль Радуга-220 0,9 кг",
+            "is_liked": false,
+            "price": 2160,
+            "previous_price": 2800,
+            "img": "https://sun9-16.userapi.com/c858028/v858028719/15b382/5RqoElG9kwU.jpg",
+            "description":{
+                "size":"0,9 кг",
+                "count":8,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1462
+        },
+        {
+            "title":"Акриловая эмаль Радуга-220 0,9 кг",
+            "is_liked": true,
+            "price": 2160,
+            "previous_price": 3800,
+            "img": "https://sun9-16.userapi.com/c858028/v858028719/15b382/5RqoElG9kwU.jpg",
+            "description":{
+                "size":"0,9 кг",
+                "count":8,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1463
+        },
+        {
+            "title":"Акриловая эмаль Радуга-220 0,9 кг",
+            "is_liked": false,
+            "price": 2160,
+            "previous_price": 2800,
+            "img": "https://sun9-16.userapi.com/c858028/v858028719/15b382/5RqoElG9kwU.jpg",
+            "description":{
+                "size":"0,9 кг",
+                "count":8,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1464
+        },
+        {
+            "title":"Акриловая эмаль Радуга-220 0,9 кг",
+            "is_liked": true,
+            "price": 2160,
+            "previous_price": 3800,
+            "img": "https://sun9-16.userapi.com/c858028/v858028719/15b382/5RqoElG9kwU.jpg",
+            "description":{
+                "size":"0,9 кг",
+                "count":8,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1465
+        },
+        {
+            "title":"Акриловая эмаль Радуга-220 0,9 кг",
+            "is_liked": false,
+            "price": 2160,
+            "previous_price": 2800,
+            "img": "https://sun9-16.userapi.com/c858028/v858028719/15b382/5RqoElG9kwU.jpg",
+            "description":{
+                "size":"0,9 кг",
+                "count":8,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1466
+        },
+        {
+            "title":"Акриловая эмаль Радуга-220 0,9 кг",
+            "is_liked": true,
+            "price": 2160,
+            "previous_price": 3800,
+            "img": "https://sun9-16.userapi.com/c858028/v858028719/15b382/5RqoElG9kwU.jpg",
+            "description":{
+                "size":"0,9 кг",
+                "count":8,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1467
+        }
+    ],
+    "building_materials":[
+        {
+            "title":"Красный кирпич",
+            "is_liked": false,
+            "price": 3960,
+            "previous_price": 3100,
+            "img": "https://stroymax.kz/wp-content/uploads/2015/10/foto-krasniy-01.jpg",
+            "description":{
+                "size":"Кирпич одинарный (250*120*65)",
+                "count":10,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1468,
+            "category": 1
+        },
+        {
+            "title":"KNAUF ГВЛ 9,50 мм (Потолочный)",
+            "is_liked": false,
+            "price": 47989,
+            "previous_price": 3100,
+            "img": "https://stroymax.kz/wp-content/uploads/2016/02/razmer-gipsokartona-knauf1.jpg",
+            "description":{
+                "size":"1,2*2,5мм (3 кв.м)",
+                "count":10,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1469,
+            "category": 1
+        },
+        {
+            "title":"Pollpan 50 мм",
+            "is_liked": false,
+            "price": 139990,
+            "previous_price": 3100,
+            "img": "https://stroymax.kz/wp-content/uploads/2016/02/53841c54426afbe34f8b458a.png",
+            "description":{
+                "size":"(0,288 м3) 5,76 м2 1200*600мм*8 плит",
+                "count":10,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1480,
+            "category": 1
+        },
+        {
+            "title":"Pollpan 30 мм",
+            "is_liked": false,
+            "price": 3960,
+            "previous_price": 3100,
+            "img": "https://stroymax.kz/wp-content/uploads/2016/02/502b9345ac7959ad74033b5e.png",
+            "description":{
+                "size":"(0,3024 м3) 10,08 м2 1200*600мм*14 плит",
+                "count":10,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1481,
+            "category": 1
+        },
+        {
+            "title":"Сайдинг Timberblock Дуб",
+            "is_liked": false,
+            "price": 47989,
+            "previous_price": 3100,
+            "img": "https://stroymax.kz/wp-content/uploads/2018/04/dub-zolotistyj-2-454x505.png",
+            "description":{
+                "size":"3,40м х 0,230м = 0,782 м2",
+                "count":1,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1482,
+            "category": 1
+        },
+        {
+            "title":"Стартовая планка Timberblock",
+            "is_liked": false,
+            "price": 9990,
+            "previous_price": 13100,
+            "img": "https://stroymax.kz/wp-content/uploads/2018/04/Finishnaya-planka-dlya-saydinga-708x505.jpg",
+            "description":{
+                "size":"3,05 п.м.",
+                "count":1,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1483,
+            "category": 1
+        },
+        {
+            "title":"Наружный угол Stone House (кирпичи)",
+            "is_liked": false,
+            "price": 3960,
+            "previous_price": 3100,
+            "img": "https://stroymax.kz/wp-content/uploads/2018/04/data-sajding-vinilovyj-fineber-fasadnaja-panel-naruzhnyj-ugol-500x500-20160525-132829.jpg",
+            "description":{
+                "size":"1 шт. -3,05",
+                "count":10,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1484,
+            "category": 1
+        },
+        {
+            "title":"Металлочерепица, Даймонд",
+            "is_liked": false,
+            "price": 47989,
+            "previous_price": 3100,
+            "img": "https://stroymax.kz/wp-content/uploads/2016/03/dajmond-rossiya-045.png",
+            "description":{
+                "size":"420x420",
+                "count":10,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1485,
+            "category": 1
+        },
+        {
+            "title":"КНАУФ-БЕТОКОНТАКТ",
+            "is_liked": true,
+            "price": 1399,
+            "previous_price": 3100,
+            "img": "https://stroymax.kz/wp-content/uploads/2018/08/25-683x505.jpg",
+            "description":{
+                "size":"420x420",
+                "count":10,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1486,
+            "category": 1
+        },
+        {
+            "title":"Грунтовка адгезионная КНАУФ-Грунт 5 л",
+            "is_liked": false,
+            "price": 3960,
+            "previous_price": 3100,
+            "img": "https://stroymax.kz/wp-content/uploads/2018/08/29-800x505.jpg",
+            "description":{
+                "size":"420x420",
+                "count":10,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1487,
+            "category": 1
+        },
+        {
+            "title":"шуруповерт bosch gsr 180 li",
+            "is_liked": false,
+            "price": 47989,
+            "previous_price": 3100,
+            "img": "https://sun9-2.userapi.com/c858028/v858028062/161d63/Z_cN1-s9Tws.jpg",
+            "description":{
+                "size":"420x420",
+                "count":10,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1488,
+            "category": 1
+        },
+        {
+            "title":"Клей плиточный «SET 301» 25 кг.",
+            "is_liked": false,
+            "price": 9999,
+            "previous_price": 15000,
+            "img": "https://stroymax.kz/wp-content/uploads/2018/04/set-301-kley-dlya-plitki-i-keramogranita-25kg_0a4bea87470a6cf_300x300.jpg",
+            "description":{
+                "size":"420x420",
+                "count":10,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1489,
+            "category": 1
+        },
+        {
+            "title":"Oбои Вернисаж 168106-13 (10,05*1,06)(6)",
+            "is_liked": false,
+            "price": 1999,
+            "previous_price": 3100,
+            "img": "https://stroymax.kz/wp-content/uploads/2018/05/64_tn3-596x505.jpg",
+            "description":{
+                "size":"10,05*1,06 см",
+                "count":10,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1490,
+            "category": 2
+        },
+        {
+            "title":"Обои Wallberry 8061-06 Блюз вспененный винил",
+            "is_liked": false,
+            "price": 59990,
+            "previous_price": 67100,
+            "img": "https://stroymax.kz/wp-content/uploads/2018/05/67_tn3-600x505.jpg",
+            "description":{
+                "size":"1,06*10",
+                "count":10,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1491,
+            "category": 2
+        },
+        {
+            "title":"Elysium 97802",
+            "is_liked": false,
+            "price": 3000,
+            "previous_price": 4100,
+            "img": "https://stroymax.kz/wp-content/uploads/2018/05/16_tn3-1-600x505.jpg",
+            "description":{
+                "size":"10,05*0,53",
+                "count":10,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1492,
+            "category": 2
+        },
+        {
+            "title":"Обои Elysium 25206",
+            "is_liked": true,
+            "price": 13990,
+            "previous_price": 31000,
+            "img": "https://stroymax.kz/wp-content/uploads/2018/05/41_tn3-1-600x505.jpg",
+            "description":{
+                "size":"10,05*0,53",
+                "count":12,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1493,
+            "category": 2,
+            "interesting": true
+        },
+        {
+            "title":"Пенза Гармония 587-284-18",
+            "is_liked": false,
+            "price": 39990,
+            "previous_price": 31000,
+            "img": "https://stroymax.kz/wp-content/uploads/2018/05/84_tn3-2-596x505.jpg",
+            "description":{
+                "size":"0,53*10,05",
+                "count":9,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1494,
+            "category": 2
+        },
+        {
+            "title":"Decorex Veneciano, 4,5 кг",
+            "is_liked": true,
+            "price": 13990,
+            "previous_price": 31000,
+            "img": "https://stroymax.kz/wp-content/uploads/2018/07/28-38.jpg",
+            "description":{
+                "size":"0,53*10,05",
+                "count":9,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1500,
+            "category": 3
+        },
+        {
+            "title":"Декоративная штукатурка Velvettoг",
+            "is_liked": false,
+            "price": 139290,
+            "previous_price": 231000,
+            "img": "https://stroymax.kz/wp-content/uploads/2018/07/25.png",
+            "description":{
+                "size":"0,53*10,05",
+                "count":9,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1501,
+            "category": 3,
+            "interesting": true
+        },
+        {
+            "title":"Клей ПВА ECONOM",
+            "is_liked": false,
+            "price": 1390,
+            "previous_price": 2000,
+            "img": "https://stroymax.kz/wp-content/uploads/2018/07/47.png",
+            "description":{
+                "size":"0,53*10,05",
+                "count":9,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1503,
+            "category": 3
+        },
+        {
+            "title":"Ассоль голубая",
+            "is_liked": false,
+            "price": 154390,
+            "previous_price": 205200,
+            "img": "https://stroymax.kz/wp-content/uploads/2018/04/2467_600x600_fe1-600x505.jpg",
+            "description":{
+                "size":"0,53*10,05",
+                "count":9,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1504,
+            "category": 4,
+            "interesting": true
+        },
+        {
+            "title":"Плитка настенная Арго Геометрия",
+            "is_liked": false,
+            "price": 54390,
+            "previous_price": 75200,
+            "img": "https://stroymax.kz/wp-content/uploads/2018/04/argogeometriya-403x505.jpg",
+            "description":{
+                "size":"0,53*10,05",
+                "count":9,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1505,
+            "category": 4
+        },
+        {
+            "title":"Эста",
+            "is_liked": false,
+            "price": 4390,
+            "previous_price": 5200,
+            "img": "https://stroymax.kz/wp-content/uploads/2018/04/1678_600x600_833-600x505.jpeg",
+            "description":{
+                "size":"0,53*10,05",
+                "count":9,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1506,
+            "category": 4,
+            "interesting": true
+        },
+        {
+            "title":"Душевая кабина ER3508P-C4",
+            "is_liked": false,
+            "price": 44390,
+            "previous_price": 55200,
+            "img": "https://stroymax.kz/wp-content/uploads/2018/06/70194437_w640_h640_dushevaya-kabina-er3508p-c4-784x505.jpg",
+            "description":{
+                "size":"800*800*2150",
+                "count":9,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1507,
+            "category": 5
+        },
+        {
+            "title":"Классика В3",
+            "is_liked": false,
+            "price": 74390,
+            "previous_price": 85200,
+            "img": "https://stroymax.kz/wp-content/uploads/2018/06/12-31-800x500.jpg",
+            "description":{
+                "size":"1000*1000*2200",
+                "count":9,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1508,
+            "category": 5
+        },
+        {
+            "title":"Акриловая ванна Тритон БЭЛЛА",
+            "is_liked": false,
+            "price": 174390,
+            "previous_price": 185200,
+            "img": "https://stroymax.kz/wp-content/uploads/2018/06/16-3.jpg",
+            "description":{
+                "size":"760*600*1400*440",
+                "count":9,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1509,
+            "category": 5,
+            "interesting": true
+        },
+        {
+            "title":"Акриловая ванна Тритон ВИКИ ",
+            "is_liked": false,
+            "price": 14390,
+            "previous_price": 15200,
+            "img": "https://stroymax.kz/wp-content/uploads/2018/06/19-4-800x500.jpg",
+            "description":{
+                "size":"750*720*1600*510",
+                "count":9,
+                "type": "type"
+            },
+            "company":"Наши",
+            "id":1510,
+            "category": 5,
+            "interesting": true
+        }
+    ]
+}
